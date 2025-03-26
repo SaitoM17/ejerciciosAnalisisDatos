@@ -1,0 +1,44 @@
+Order_ID,Fecha,Cliente,Producto,Cantidad,Precio,Ciudad,Estado,Código Postal,Método de Pago,Total
+1001,2024-01-02,Juan Pérez,Laptop,1,15000.0,Monterrey,Nuevo León,64000.0,Tarjeta,15000.0
+1002,2024-02-02,María López,Teclado,2,800.0,CDMX,CDMX,1000.0,Efectivo,1600.0
+1003,2024-03-02,Carlos Gómez,Mouse,1,500.0,Guadalajara,Jalisco,44100.0,Tarjeta,500.0
+1004,2024-04-02,Laura Martínez,Monitor,1,3000.0,Puebla,Puebla,72000.0,Transferencia,3000.0
+1005,2024-05-02,Pedro Sánchez,Impresora,1,2500.0,Mérida,Yucatán,97000.0,Tarjeta,2500.0
+1006,2024-06-02,Ana Ruiz,Laptop,1,16000.0,Querétaro,Querétaro,76000.0,Efectivo,16000.0
+1007,2024-07-02,Luis Torres,Teclado,2,900.0,Toluca,México,50000.0,Transferencia,1800.0
+1008,2024-08-02,Sofía Díaz,Mouse,1,600.0,León,Guanajuato,37000.0,Tarjeta,600.0
+1009,2024-09-02,Javier Vargas,Monitor,1,3200.0,Chihuahua,Chihuahua,31000.0,Efectivo,3200.0
+1010,2024-10-02,Elena Jiménez,Impresora,1,2600.0,Hermosillo,Sonora,83000.0,Transferencia,2600.0
+1011,2024-11-02,Miguel Castro,Laptop,1,17000.0,Saltillo,Coahuila,25000.0,Tarjeta,17000.0
+1012,2024-12-02,Isabel Núñez,Teclado,2,1000.0,Aguascalientes,Aguascalientes,20000.0,Efectivo,2000.0
+1013,,Ricardo Morales,Mouse,1,700.0,Morelia,Michoacán,58000.0,Transferencia,700.0
+1014,,Carmen Flores,Monitor,1,3400.0,Oaxaca,Oaxaca,68000.0,Tarjeta,3400.0
+1015,,Roberto Silva,Impresora,1,2700.0,Tuxtla Gutiérrez,Chiapas,29000.0,Efectivo,2700.0
+1016,,Daniel Romero,Laptop,1,18000.0,Villahermosa,Tabasco,86000.0,Transferencia,18000.0
+1017,,Patricia Herrera,Teclado,2,1100.0,Cuernavaca,Morelos,62000.0,Tarjeta,2200.0
+1018,,Jorge Mendoza,Mouse,1,800.0,Tepic,Nayarit,63000.0,Efectivo,800.0
+1019,,Gabriela Castillo,Monitor,1,3600.0,Colima,Colima,28000.0,Transferencia,3600.0
+1020,,Raúl Aguilar,Impresora,1,2800.0,Campeche,Campeche,24000.0,Tarjeta,2800.0
+1021,,Fernanda Ríos,Laptop,1,19000.0,Chetumal,Quintana Roo,77000.0,Efectivo,19000.0
+1022,,Andrés Navarro,Teclado,2,1200.0,Durango,Durango,34000.0,Transferencia,2400.0
+1023,,Valentina Soto,Mouse,1,900.0,Zacatecas,Zacatecas,98000.0,Tarjeta,900.0
+1024,,Héctor Reyes,Monitor,1,3800.0,Ciudad Victoria,Tamaulipas,87000.0,Efectivo,3800.0
+1025,,Claudia Medina,Impresora,1,2900.0,La Paz,Baja California Sur,23000.0,Transferencia,2900.0
+1026,,Oscar Torres,Laptop,1,20000.0,Mexicali,Baja California,21000.0,Tarjeta,20000.0
+1027,,Silvia Chávez,Teclado,2,1300.0,San Luis Potosí,San Luis Potosí,78000.0,Efectivo,2600.0
+1028,,Eduardo Vargas,Mouse,1,1000.0,Mazatlán,Sinaloa,82000.0,Transferencia,1000.0
+1029,,Lorena Jiménez,Monitor,1,4000.0,Culiacán,Sinaloa,80000.0,Tarjeta,4000.0
+1030,2024-01-03,Martín Castro,Impresora,1,3000.0,Navojoa,Sonora,85800.0,Efectivo,3000.0
+1031,2024-02-03,Adriana Núñez,Laptop,1,21000.0,Nogales,Sonora,84000.0,Transferencia,21000.0
+1032,2024-03-03,Gustavo Morales,Teclado,2,1400.0,Ciudad Obregón,Sonora,85000.0,Tarjeta,2800.0
+1033,2024-04-03,Cecilia Flores,Mouse,1,1100.0,Guaymas,Sonora,85400.0,Efectivo,1100.0
+1034,2024-05-03,Sergio Silva,Monitor,1,4200.0,Puerto Peñasco,Sonora,83550.0,Transferencia,4200.0
+1035,2024-06-03,Verónica Romero,Impresora,1,3100.0,San Luis Río Colorado,Sonora,83440.0,Tarjeta,3100.0
+1036,2024-07-03,Alejandro Herrera,Laptop,1,22000.0,Cananea,Sonora,84620.0,Efectivo,22000.0
+1037,2024-08-03,Mónica Mendoza,Teclado,2,1500.0,Magdalena de Kino,Sonora,84160.0,Transferencia,3000.0
+1038,2024-09-03,Enrique Castillo,Mouse,1,1200.0,Agua Prieta,Sonora,84200.0,Tarjeta,1200.0
+1039,2024-10-03,Paola Aguilar,Monitor,1,4400.0,Moctezuma,Sonora,84400.0,Efectivo,4400.0
+1040,2024-11-03,Diego Ríos,Impresora,1,3200.0,Caborca,Sonora,83600.0,Transferencia,3200.0
+1041,2024-12-03,Ximena Navarro,Laptop,1,23000.0,Santa Ana,Sonora,84600.0,Tarjeta,23000.0
+1042,,Bruno Soto,Teclado,2,1600.0,Altar,Sonora,83700.0,Efectivo,3200.0
+1043,,Iván Reyes,Mouse,1,1300.0,Pitiquito,Sonora,83900.0,Transferencia,1300.0

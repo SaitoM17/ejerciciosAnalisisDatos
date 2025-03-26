@@ -1,0 +1,45 @@
+Order_ID,Fecha,Cliente,Producto,Cantidad,Precio,Ciudad,Estado,Código Postal,Método de Pago
+1001,01-02-2024,Juan Pérez,Laptop,1,15000,Monterrey,Nuevo León,64000,Tarjeta
+1002,02-02-2024,María López,Teclado,2,800,CDMX,CDMX,01000,Efectivo
+1003,03-02-2024,Carlos Gómez,Mouse,1,500,Guadalajara,Jalisco,44100,Tarjeta
+1004,04-02-2024,Laura Martínez,Monitor,1,3000,Puebla,Puebla,72000,Transferencia
+1005,05-02-2024,Pedro Sánchez,Impresora,1,2500,Mérida,Yucatán,97000,Tarjeta
+1006,06-02-2024,Ana Ruiz,Laptop,1,16000,Querétaro,Querétaro,76000,Efectivo
+1007,07-02-2024,Luis Torres,Teclado,2,900,Toluca,México,50000,Transferencia
+1008,08-02-2024,Sofía Díaz,Mouse,1,600,León,Guanajuato,37000,Tarjeta
+1009,09-02-2024,Javier Vargas,Monitor,1,3200,Chihuahua,Chihuahua,31000,Efectivo
+1010,10-02-2024,Elena Jiménez,Impresora,1,2600,Hermosillo,Sonora,83000,Transferencia
+1011,11-02-2024,Miguel Castro,Laptop,1,17000,Saltillo,Coahuila,25000,Tarjeta
+1012,12-02-2024,Isabel Núñez,Teclado,2,1000,Aguascalientes,Aguascalientes,20000,Efectivo
+1013,13-02-2024,Ricardo Morales,Mouse,1,700,Morelia,Michoacán,58000,Transferencia
+1014,14-02-2024,Carmen Flores,Monitor,1,3400,Oaxaca,Oaxaca,68000,Tarjeta
+1015,15-02-2024,Roberto Silva,Impresora,1,2700,Tuxtla Gutiérrez,Chiapas,29000,Efectivo
+1016,16-02-2024,Daniel Romero,Laptop,1,18000,Villahermosa,Tabasco,86000,Transferencia
+1017,17-02-2024,Patricia Herrera,Teclado,2,1100,Cuernavaca,Morelos,62000,Tarjeta
+1018,18-02-2024,Jorge Mendoza,Mouse,1,800,Tepic,Nayarit,63000,Efectivo
+1019,19-02-2024,Gabriela Castillo,Monitor,1,3600,Colima,Colima,28000,Transferencia
+1020,20-02-2024,Raúl Aguilar,Impresora,1,2800,Campeche,Campeche,24000,Tarjeta
+1021,21-02-2024,Fernanda Ríos,Laptop,1,19000,Chetumal,Quintana Roo,77000,Efectivo
+1022,22-02-2024,Andrés Navarro,Teclado,2,1200,Durango,Durango,34000,Transferencia
+1023,23-02-2024,Valentina Soto,Mouse,1,900,Zacatecas,Zacatecas,98000,Tarjeta
+1024,24-02-2024,Héctor Reyes,Monitor,1,3800,Ciudad Victoria,Tamaulipas,87000,Efectivo
+1025,25-02-2024,Claudia Medina,Impresora,1,2900,La Paz,Baja California Sur,23000,Transferencia
+1026,26-02-2024,Oscar Torres,Laptop,1,20000,Mexicali,Baja California,21000,Tarjeta
+1027,27-02-2024,Silvia Chávez,Teclado,2,1300,San Luis Potosí,San Luis Potosí,78000,Efectivo
+1028,28-02-2024,Eduardo Vargas,Mouse,1,1000,Mazatlán,Sinaloa,82000,Transferencia
+1029,29-02-2024,Lorena Jiménez,Monitor,1,4000,Culiacán,Sinaloa,80000,Tarjeta
+1030,01-03-2024,Martín Castro,Impresora,1,3000,Navojoa,Sonora,85800,Efectivo
+1031,02-03-2024,Adriana Núñez,Laptop,1,21000,Nogales,Sonora,84000,Transferencia
+1032,03-03-2024,Gustavo Morales,Teclado,2,1400,Ciudad Obregón,Sonora,85000,Tarjeta
+1033,04-03-2024,Cecilia Flores,Mouse,1,1100,Guaymas,Sonora,85400,Efectivo
+1034,05-03-2024,Sergio Silva,Monitor,1,4200,Puerto Peñasco,Sonora,83550,Transferencia
+1035,06-03-2024,Verónica Romero,Impresora,1,3100,San Luis Río Colorado,Sonora,83440,Tarjeta
+1036,07-03-2024,Alejandro Herrera,Laptop,1,22000,Cananea,Sonora,84620,Efectivo
+1037,08-03-2024,Mónica Mendoza,Teclado,2,1500,Magdalena de Kino,Sonora,84160,Transferencia
+1038,09-03-2024,Enrique Castillo,Mouse,1,1200,Agua Prieta,Sonora,84200,Tarjeta
+1039,10-03-2024,Paola Aguilar,Monitor,1,4400,Moctezuma,Sonora,84400,Efectivo
+1040,11-03-2024,Diego Ríos,Impresora,1,3200,Caborca,Sonora,83600,Transferencia
+1041,12-03-2024,Ximena Navarro,Laptop,1,23000,Santa Ana,Sonora,84600,Tarjeta
+1042,13-03-2024,Bruno Soto,Teclado,2,1600,Altar,Sonora,83700,Efectivo
+1043,14-03-2024,Iván Reyes,Mouse,1,1300,Pitiquito,Sonora,83900,Transferencia
+1044,15-03-202

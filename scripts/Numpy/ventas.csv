@@ -1,0 +1,14 @@
+cliente,cantidad,precio,total_venta
+Juan Perez,5,100,500
+JUAN PÉREZ ,5,100,500
+juan p.,5,100,500
+Maria Gómez,2,500,1000
+María Gómez,2,500,1000
+Carlos Lòpez,10000,100,1000000
+Pedro,NaN,150,NaN
+Ana Torres,3,0.01,0.03
+anA torres,3,1000,3000
+Laura,2,,200
+Jose,2,120,240
+Jose,2,120,240
+Jòsé,2,120,240
